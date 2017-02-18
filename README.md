@@ -26,6 +26,8 @@ To Run The Project:
  <li> del [employee id]</li>
  <li> update [employee id]‐[NAME/DESIG/SALARY]-[New Value]</li>
  <li> print [employee id]</li>
+ <li> printall [ASC/DESC]</li>
+ <li> quit</li>
  </ul>
 
 Technologies Used:
